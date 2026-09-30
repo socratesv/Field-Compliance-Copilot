@@ -1,6 +1,4 @@
-# Project Title
-
-Field-Compliance-Copilot
+# Field-Compliance-Copilot
 
 ## Summary
 
